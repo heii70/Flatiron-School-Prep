@@ -1,7 +1,8 @@
+## Labs
 Lab 0: selecting-single-elements-lab-bootcamp-prep-000
 Lab 1: first-ide-lab-bootcamp-prep-000
 Lab 2: js-from-dom-to-node-bootcamp-prep-000
-Lab 3	: js-node-practice-lab-bootcamp-prep-000
+Lab 3: js-node-practice-lab-bootcamp-prep-000
 Lab 4: js-what-is-a-test-bootcamp-prep-000
 Lab 5: js-what-is-a-test-lab-bootcamp-prep-000
 Lab 6: javascript-intro-to-functions-lab-bootcamp-prep-000
