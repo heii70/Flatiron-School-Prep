@@ -18,4 +18,4 @@
 - [Lab 16: js-deli-counter-bootcamp-prep-000](js-deli-counter-bootcamp-prep-000)
 - [Lab 17: js-basics-online-shopping-lab-bootcamp-prep-000](js-basics-online-shopping-lab-bootcamp-prep-000)
 - [Lab 18: javascript-hide-and-seek-bootcamp-prep-000](javascript-hide-and-seek-bootcamp-prep-000)
-	
+- [Lab 19: konami-code-lab-bootcamp-prep-000](konami-code-lab-bootcamp-prep-000)
