@@ -20,3 +20,4 @@
 - [Lab 18: javascript-hide-and-seek-bootcamp-prep-000](javascript-hide-and-seek-bootcamp-prep-000)
 - [Lab 19: konami-code-lab-bootcamp-prep-000](konami-code-lab-bootcamp-prep-000)
 - [Lab 20: js-jquery-modify-html-readme-bootcamp-prep-000](js-jquery-modify-html-readme-bootcamp-prep-000)
+- [Lab 21: js-jquery-modify-html-lab-bootcamp-prep-000](js-jquery-modify-html-lab-bootcamp-prep-000)
