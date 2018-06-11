@@ -21,3 +21,7 @@
 - [Lab 19: konami-code-lab-bootcamp-prep-000](konami-code-lab-bootcamp-prep-000)
 - [Lab 20: js-jquery-modify-html-readme-bootcamp-prep-000](js-jquery-modify-html-readme-bootcamp-prep-000)
 - [Lab 21: js-jquery-modify-html-lab-bootcamp-prep-000](js-jquery-modify-html-lab-bootcamp-prep-000)
+- [Lab 22: jquery-selectors-readme-bootcamp-prep-000](jquery-selectors-readme-bootcamp-prep-000)
+- [Lab 23: js-jquery-event-listeners-readme-bootcamp-prep-000](js-jquery-event-listeners-readme-bootcamp-prep-000)
+- [Lab 24: moving-things-with-javascript-bootcamp-prep-000](moving-things-with-javascript-bootcamp-prep-000)
+
