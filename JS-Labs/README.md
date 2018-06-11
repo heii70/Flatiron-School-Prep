@@ -24,4 +24,4 @@
 - [Lab 22: jquery-selectors-readme-bootcamp-prep-000](jquery-selectors-readme-bootcamp-prep-000)
 - [Lab 23: js-jquery-event-listeners-readme-bootcamp-prep-000](js-jquery-event-listeners-readme-bootcamp-prep-000)
 - [Lab 24: moving-things-with-javascript-bootcamp-prep-000](moving-things-with-javascript-bootcamp-prep-000)
-
+- [Lab 25: javascript-rock-dodger-bootcamp-prep-000](javascript-rock-dodger-bootcamp-prep-000)
