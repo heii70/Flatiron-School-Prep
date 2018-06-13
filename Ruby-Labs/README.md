@@ -8,3 +8,4 @@
 - [Lab 7: intro-to-tdd-rspec-and-learn-bootcamp-prep-000](intro-to-tdd-rspec-and-learn-bootcamp-prep-000)
 - [Lab 8: say-hello-ruby-bootcamp-prep-000](say-hello-ruby-bootcamp-prep-000)
 - [Lab 9: interpolation-super-power-bootcamp-prep-000](interpolation-super-power-bootcamp-prep-000)
+- [Lab 10: ttt-4-display-board-rb-bootcamp-prep-000](ttt-4-display-board-rb-bootcamp-prep-000)
