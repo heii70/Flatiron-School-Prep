@@ -6,3 +6,4 @@
 - [Lab 5: ttt-2-board-rb-bootcamp-prep-000](ttt-2-board-rb-bootcamp-prep-000)
 - [Lab 6: ttt-3-display_board-example-bootcamp-prep-000](ttt-3-display_board-example-bootcamp-prep-000)
 - [Lab 7: intro-to-tdd-rspec-and-learn-bootcamp-prep-000](intro-to-tdd-rspec-and-learn-bootcamp-prep-000)
+- [Lab 8: say-hello-ruby-bootcamp-prep-000](say-hello-ruby-bootcamp-prep-000)
