@@ -11,3 +11,4 @@
 - [Lab 10: ttt-4-display-board-rb-bootcamp-prep-000](ttt-4-display-board-rb-bootcamp-prep-000)
 - [Lab 11: ruby-gets-input-bootcamp-prep-000](ruby-gets-input-bootcamp-prep-000)
 - [Lab 12: greeting-cli-bootcamp-prep-000](greeting-cli-bootcamp-prep-000)
+- [Lab 13: ttt-5-move-rb-bootcamp-prep-000](ttt-5-move-rb-bootcamp-prep-000)
