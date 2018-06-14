@@ -13,3 +13,5 @@
 - [Lab 12: greeting-cli-bootcamp-prep-000](greeting-cli-bootcamp-prep-000)
 - [Lab 13: ttt-5-move-rb-bootcamp-prep-000](ttt-5-move-rb-bootcamp-prep-000)
 - [Lab 14: rspec-fizzbuzz-bootcamp-prep-000](rspec-fizzbuzz-bootcamp-prep-000)
+- [Lab 15: ttt-6-position-taken-rb-bootcamp-prep-000](ttt-6-position-taken-rb-bootcamp-prep-000)
+- [Lab 16: ttt-7-valid-move-bootcamp-prep-000](ttt-6-position-taken-rb-bootcamp-prep-000)
