@@ -18,3 +18,4 @@
 - [Lab 17: looping-while-until-bootcamp-prep-000](looping-while-until-bootcamp-prep-000)
 - [Lab 18: ttt-8-turn-bootcamp-prep-000](ttt-8-turn-bootcamp-prep-000)
 - [Lab 19: ttt-9-play-loop-bootcamp-prep-000](ttt-9-play-loop-bootcamp-prep-000)
+- [Lab 20: ttt-10-current-player-bootcamp-prep-000](ttt-10-current-player-bootcamp-prep-000)
