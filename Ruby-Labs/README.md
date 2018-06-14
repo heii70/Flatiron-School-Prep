@@ -15,3 +15,6 @@
 - [Lab 14: rspec-fizzbuzz-bootcamp-prep-000](rspec-fizzbuzz-bootcamp-prep-000)
 - [Lab 15: ttt-6-position-taken-rb-bootcamp-prep-000](ttt-6-position-taken-rb-bootcamp-prep-000)
 - [Lab 16: ttt-7-valid-move-bootcamp-prep-000](ttt-7-valid-move-bootcamp-prep-000)
+- [Lab 17: looping-while-until-bootcamp-prep-000](looping-while-until-bootcamp-prep-000)
+- [Lab 18: ttt-8-turn-bootcamp-prep-000](ttt-8-turn-bootcamp-prep-000)
+- [Lab 19: ttt-9-play-loop-bootcamp-prep-000](ttt-9-play-loop-bootcamp-prep-000)
