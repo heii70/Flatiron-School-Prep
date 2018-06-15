@@ -19,3 +19,5 @@
 - [Lab 18: ttt-8-turn-bootcamp-prep-000](ttt-8-turn-bootcamp-prep-000)
 - [Lab 19: ttt-9-play-loop-bootcamp-prep-000](ttt-9-play-loop-bootcamp-prep-000)
 - [Lab 20: ttt-10-current-player-bootcamp-prep-000](ttt-10-current-player-bootcamp-prep-000)
+- [Lab 21: ttt-game-status-bootcamp-prep-000](ttt-game-status-bootcamp-prep-000)
+- [Lab 22: tic-tac-toe-rb-bootcamp-prep-000](tic-tac-toe-rb-bootcamp-prep-000)
