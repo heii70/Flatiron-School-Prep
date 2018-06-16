@@ -21,3 +21,4 @@
 - [Lab 20: ttt-10-current-player-bootcamp-prep-000](ttt-10-current-player-bootcamp-prep-000)
 - [Lab 21: ttt-game-status-bootcamp-prep-000](ttt-game-status-bootcamp-prep-000)
 - [Lab 22: tic-tac-toe-rb-bootcamp-prep-000](tic-tac-toe-rb-bootcamp-prep-000)
+- [Lab 23: classes-and-instances-lab-ruby-bootcamp-prep-000](classes-and-instances-lab-ruby-bootcamp-prep-000)
