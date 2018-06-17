@@ -24,3 +24,4 @@
 - [Lab 23: classes-and-instances-lab-ruby-bootcamp-prep-000](classes-and-instances-lab-ruby-bootcamp-prep-000)
 - [Lab 24: instance-methods-lab-ruby-bootcamp-prep-000](instance-methods-lab-ruby-bootcamp-prep-000)
 - [Lab 25: ruby-object-attributes-lab-bootcamp-prep-000](ruby-object-attributes-lab-bootcamp-prep-000)
+- [Lab 26: ruby-object-initialize-lab-bootcamp-prep-000](ruby-object-initialize-lab-bootcamp-prep-000)
