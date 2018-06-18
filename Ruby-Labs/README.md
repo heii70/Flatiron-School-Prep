@@ -26,3 +26,4 @@
 - [Lab 25: ruby-object-attributes-lab-bootcamp-prep-000](ruby-object-attributes-lab-bootcamp-prep-000)
 - [Lab 26: ruby-object-initialize-lab-bootcamp-prep-000](ruby-object-initialize-lab-bootcamp-prep-000)
 - [Lab 27: oo-barking-dog-bootcamp-prep-000](oo-barking-dog-bootcamp-prep-000)
+- [Lab 28: oo-tic-tac-toe-bootcamp-prep-000](oo-tic-tac-toe-bootcamp-prep-000)
